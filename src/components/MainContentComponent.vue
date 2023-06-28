@@ -67,7 +67,7 @@
 
 	<!-- React app -->
 	<div id="challenge-gov-react-app" data-api-url="http://portal.challenge.gov" data-public-url=""></div>
-	<div id="challenge-gov-react-app" data-api-url="http://localhost:4000/api/challenges" data-public-url=""></div>
+	<!-- <div id="challenge-gov-react-app" data-api-url="http://localhost:4000/api/challenges" data-public-url=""></div> -->
 	<!-- <div id="react-app-container"></div> -->
 	<!-- http://localhost:4000/api/challenges -->
 

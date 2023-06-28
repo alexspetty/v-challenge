@@ -70,11 +70,11 @@ export default {
   name: 'FooterComponent',
   data() {
     return {
-      // any data members you need
+      // any needed data members here
     };
   },
   methods: {
-    // any methods you need
+    // any needed methods here
   }
 }
 </script>
